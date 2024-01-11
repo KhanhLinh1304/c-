@@ -1,0 +1,9 @@
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\bin\Debug\DAL.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\bin\Debug\DAL.pdb
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\bin\Debug\DTO.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\bin\Debug\DTO.pdb
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\obj\Debug\DAL.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\DAL\obj\Debug\DAL.pdb

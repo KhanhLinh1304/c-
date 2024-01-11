@@ -1,0 +1,11 @@
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\BUS.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\BUS.pdb
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\DAL.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\DTO.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\DAL.pdb
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\bin\Debug\DTO.pdb
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\obj\Debug\BUS.dll
+D:\Users\Admin\DotNet\vatlieuxaydung\BUS\obj\Debug\BUS.pdb
