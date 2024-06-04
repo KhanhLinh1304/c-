@@ -138,5 +138,10 @@ namespace vatlieuxaydung
                 dgv_loaiVL.DataSource= list;
             }
         }
+
+        private void dgv_loaiVL_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

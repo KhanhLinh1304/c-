@@ -32,11 +32,11 @@ namespace DAL
             using (conn = ConnectDB.connection())
             {
                 conn.Open();
-                string sql = "update LOAIVATLIEU SET (TENLOAIVATLIEU = @tenVL) where MALOAIVATLIEU = @maVL" ;
+                string sql = "update LOAIVATLIEU SET TENLOAIVATLIEU = @tenVL where MALOAIVATLIEU = @maVL" ;
                 using (cmd = new SqlCommand(sql, conn))
                 {
-                    cmd.Parameters.AddWithValue("@tenVL", category.NameCategory);
                     cmd.Parameters.AddWithValue("@maVL", category.IdCategory);
+                    cmd.Parameters.AddWithValue("@tenVL", category.NameCategory);
                     cmd.ExecuteNonQuery();
                 }
             }

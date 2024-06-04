@@ -186,6 +186,7 @@
             this.dgv_loaiVL.Size = new System.Drawing.Size(573, 175);
             this.dgv_loaiVL.TabIndex = 0;
             this.dgv_loaiVL.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_loaiVL_CellClick);
+            this.dgv_loaiVL.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_loaiVL_CellContentClick);
             // 
             // maloaivl
             // 
@@ -247,7 +248,7 @@
             this.txt_search.TabIndex = 0;
             this.txt_search.TextChanged += new System.EventHandler(this.txt_search_TextChanged);
             // 
-            // danh_sach_the_loai
+            // formCategory
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -257,7 +258,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(2);
-            this.Name = "danh_sach_the_loai";
+            this.Name = "formCategory";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Danh sách loại vật liệu";
             this.Load += new System.EventHandler(this.Form2_Load);
